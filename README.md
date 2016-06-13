@@ -1,9 +1,9 @@
 DynamicGrid
 ===========
 
-Drag and drop GridView for Android.
+Drag and Drop GridView for Android.
 
-Depricated
+Deprecated
 ===========
 It's much better to use solutions based on recycler view. For example https://github.com/h6ah4i/android-advancedrecyclerview
 
